@@ -1,11 +1,8 @@
-<div align="center"
-
-<a href="https://github.com/DigouO" target="_blank"><img align="right" height="100px" src="./assets/logo.png" /></a>
+<div align="center">
+<a href="https://github.com/DigouO" target="_blank"><img align="center" height="120px" src="./assets/logo.png" /></a>
 <h1>ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - FIAP ON</h1>
 <p>2°. ANO - 2024</p>
 
-
-<div align="justify">
 
 <h2>📱 FASE 1: APP WORLD (de 05/02 até 19/03)</h2>
 
@@ -193,6 +190,5 @@
 - [Capítulo 09:](./fase05/capitulo09.md)
 
 </details>
-<br>
 
 </div>
