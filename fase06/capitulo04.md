@@ -259,7 +259,7 @@ Azure Artifacts | Permite que as equipes compartilhem pacotes como o Maven, npm,
 - este modelo é caracterizado por processos mais formais e um controle rigoroso sobre as alterações, adequado para indústrias e projetos que necessitam de aderência estrita a padrões e regulamentações.
 
 <div align="center">
-<img src="./assets/transicao-estados-processo-cmmi.jpg width="50%"><br>
+<img src="./assets/transicao-estados-processo-cmmi.jpg" width="50%"><br>
 <em>Transição de estados do processo CMMI.</em><br>
 </div>
 
