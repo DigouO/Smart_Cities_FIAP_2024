@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/monicaquintal" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="100px" align="left"/></a>
+<a href="https://github.com/DigouO" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="120px" align="center"/></a>
 <h1>FASE 1 - APP WORLD</h1>
 <h2>Capítulo 11A: Persistência de dados locais.</h2>
 </div>

@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/monicaquintal" target="_blank"><img align="right" height="120px" src="../assets/logo.png" /></a>
+<a href="https://github.com/DigouO" target="_blank"><img align="center" height="120px" src="../assets/logo.png" /></a>
 <h1>FASE 2 - DATABASE PROGRAMMING</h1>
 <h2>Capítulo 06: Tratando exceções, desta vez no BD.</h2>
 </div>

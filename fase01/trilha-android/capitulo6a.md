@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/monicaquintal" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="100px" align="left"/></a>
+<a href="https://github.com/DigouO" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="120px" align="left"/></a>
 <h1>FASE 1 - APP WORLD</h1>
 <h2>Capítulo 6A: Componentes básicos com Jetpack Composes.</h2>
 </div>
